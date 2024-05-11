@@ -1,6 +1,6 @@
 {
   "name": "@cch137/axios-session",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "devbuild": "tsc -w",
     "devstart": "nodemon ./dist/index.js",
@@ -11,6 +11,7 @@
   "devDependencies": {
     "@types/axios": "^0.14.0",
     "@types/cookie": "^0.6.0",
+    "@types/node": "^20.12.11",
     "npm-run-all": "^4.1.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
